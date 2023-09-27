@@ -467,7 +467,7 @@ menu a {
   cursor: pointer;
 }
 
-.pop {border:1px solid blue;
+.pop {
   display: none;
   position:absolute;
   left:8%;
